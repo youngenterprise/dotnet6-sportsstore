@@ -207,6 +207,109 @@
         }
       },
       {
+        "HashCode": 94654253,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.OrderTable",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "OrderTable"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TableTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TableTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Orders",
+            "TypeName": "System.Collections.Generic.IEnumerable<SportsStore.Models.Order>",
+            "Metadata": {
+              "Common.PropertyName": "Orders"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonLabel",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonLabel"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OrderSelected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Metadata": {
+              "Common.PropertyName": "OrderSelected",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.OrderTable"
+        }
+      },
+      {
+        "HashCode": -449259033,
+        "Kind": "Components.Component",
+        "Name": "SportsStore.Pages.Admin.OrderTable",
+        "AssemblyName": "SportsStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SportsStore.Pages.Admin.OrderTable"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TableTitle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TableTitle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Orders",
+            "TypeName": "System.Collections.Generic.IEnumerable<SportsStore.Models.Order>",
+            "Metadata": {
+              "Common.PropertyName": "Orders"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ButtonLabel",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ButtonLabel"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OrderSelected",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "Metadata": {
+              "Common.PropertyName": "OrderSelected",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SportsStore.Pages.Admin.OrderTable",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 610515628,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -16616,6 +16719,11 @@
       "FilePath": "d:\\dotnetstuffwithVS\\SportsStore\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\dotnetstuffwithVS\\SportsStore\\SportsSln\\SportsStore\\Pages\\Admin\\OrderTable.razor",
+      "TargetPath": "Pages\\Admin\\OrderTable.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "d:\\dotnetstuffwithVS\\SportsStore\\SportsSln\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
