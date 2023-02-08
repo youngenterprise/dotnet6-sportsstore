@@ -58,3 +58,4 @@ D:\dotnetstuffwithVS\SportsStore\SportsSln\SportsStore\obj\Debug\net6.0\SportsSt
 D:\dotnetstuffwithVS\SportsStore\SportsSln\SportsStore\bin\Debug\net6.0\ref\SportsStore.dll
 D:\dotnetstuffwithVS\SportsStore\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
 D:\dotnetstuffwithVS\SportsStore\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
+D:\dotnetstuffwithVS\SportsStore\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
